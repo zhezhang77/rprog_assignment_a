@@ -15,10 +15,12 @@
 ##     [1] "4.Divide"
 ##     [1] "5.Factors"
 ##     [1] "6.Prime"
+##
 ##     Enter choice [1/2/3/4/5/6]: 4 #prompting the user to select an operation
 ##     Enter first number: 20 #prompting the user to enter the first number
 ##     Enter second number: 4 #prompting the user to enter the second number [1] "20
 ##     / 4 = 5"
+##
 ##     [1] "******Simple R Calculator - Select operation: ******"
 ##     [1] "1.Add"
 ##     [1] "2.Subtract"
@@ -26,10 +28,10 @@
 ##     [1] "4.Divide"
 ##     [1] "5.Factors"
 ##     [1] "6.Prime"
-##     Enter choice [1/2/3/4/5/6]: 5
-##     Enter the number: 120
-##     #prompting the user to select an operation
-##     #prompting the user to enter the input
+##
+##     Enter choice [1/2/3/4/5/6]: 5    #prompting the user to select an operation
+##     Enter the number: 120            #prompting the user to enter the input
+##     
 ##     [1] "The factors of 120 are:"
 ##     [1] 1
 ##     [1] 2
@@ -52,3 +54,6 @@
 ## input from the user (terminal).
 ## Please read the help page for this function via '?readline' and make sure 
 ## that you know how to use it.
+
+calculator <- function() {
+}
