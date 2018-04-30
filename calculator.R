@@ -172,4 +172,3 @@ calculator <- function() {
     return(NA)
   }
 }
-
